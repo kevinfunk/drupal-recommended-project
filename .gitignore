@@ -1,0 +1,7 @@
+.DS_Store
+.idea
+PATCHES.txt
+.ddev/*
+docroot/*
+recipes/*
+vendor/*
